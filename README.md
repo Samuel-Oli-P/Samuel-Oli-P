@@ -1,4 +1,9 @@
-## Hi there 👋
+### Olá! Eu sou o Samuel Oliveira 👋
+
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-Oli-P&show_icons=true&theme=radical)
+
+
+![Top Langs Samuel](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Oli-P&hide_progress=true)
 
 <!--
 **Samuel-Oli-P/Samuel-Oli-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
