@@ -1,17 +1,10 @@
 
 # Olá, eu sou o Samuel! 👋
 
-<br />
-
-## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack...
 
-
-## 🔗 Links
-
-<div>
-<img alt="Foto" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
+## 🛠 Habilidades
+![Top Langs Samuel](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Oli-P&hide_progress=true&theme=radical)
 
 ## Outras seções comuns em perfis do GitHub
 👩‍💻 Trabalho atualmente na/no...
@@ -30,5 +23,18 @@ Eu sou uma pessoa desenvolvedora full-stack...
 
 ⚡️ Fatos engraçados...
 
-## 🛠 Habilidades
-![Top Langs Samuel](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Oli-P&hide_progress=true&theme=radical)
+## 🔗 Contact
+
+<div>
+    <a href="https://katherineoelsner.com/">
+        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&    logo=ko-fi&logoColor=white" alt="portfolio">
+    </a>
+    <a href="https://www.linkedin.com/">
+        <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+    </a>
+    <a href="https://twitter.com/">
+        <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
+    </a>
+</div>
+
+
