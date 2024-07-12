@@ -8,7 +8,7 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com formação técni
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#">
 
-<img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js">
 
 ##  Experiência
 Trabalhei na Box Delivery/Rappi, estive envolvido em diversas atividades relacionadas à segurança da informação. Nessa função, tive a oportunidade de criar políticas de segurança, atuar no desenvolvimento do sistema interno (Utilizando PHP, JS, HTML, CSS, SQL, NoSQL), entre outras tarefas que contribuíram significativamente para o meu crescimento profissional.
