@@ -22,6 +22,6 @@ Trabalhei na Box Delivery/Rappi, estive envolvido em diversas atividades relacio
 
 ## ✉️ Contact
 
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://katherineoelsner.com/)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueloliveirapereira1@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-de-oliveira-pereira-6766b0187/)
 
